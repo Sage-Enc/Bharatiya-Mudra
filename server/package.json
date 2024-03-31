@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is a Prototype for A Coin-Auction Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coin",
+    "coin-auction",
+    "auction",
+    "ecommerce"
+  ],
+  "author": "SAGE",
+  "license": "ISC"
+}
